@@ -1,7 +1,3 @@
-package SystemDesign.SnakeAndLadder;
-import lombok.EqualsAndHashcode;
-import lombok.Getter;
-import lombok.Setter;
 
 public class Dice{
 	private int numberOfDice;
